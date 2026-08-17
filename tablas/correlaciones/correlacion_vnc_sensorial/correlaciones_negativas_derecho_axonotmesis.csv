@@ -1,0 +1,7 @@
+Categoria,Par,Correlacion
+Latencia pico NMD,Amplitud sensory NMD,-0.27262404496967996
+Amplitud sensory NMD,Latencia pico NMD,-0.27262404496967996
+VNC NUD,Latencia pico NUD,-0.20881912784180479
+Latencia pico NUD,VNC NUD,-0.20881912784180479
+Amplitud sensory NUD,Latencia pico NUD,-0.18012648150686256
+VNC NMD,Latencia pico NUD,-0.038674429995586394

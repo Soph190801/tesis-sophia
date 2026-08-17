@@ -1,0 +1,7 @@
+Categoria,Par,Correlacion
+Latencia pico NMI,Amplitud sensory NMI,-0.4329067678210433
+Amplitud sensory NMI,Latencia pico NMI,-0.4329067678210433
+VNC NUI,Latencia pico NUI,-0.2550054676947117
+Latencia pico NUI,VNC NUI,-0.2550054676947117
+VNC NMI,Latencia pico NUI,-0.2097075369056447
+Amplitud sensory NUI,VNC NUI,-0.06780744591721367

@@ -1,0 +1,13 @@
+Categoria,Par,Correlacion
+Lat Proxi NUD,Amplitud sensory NUD,-0.292570038407145
+Amplitud sensory NUD,Lat Proxi NUD,-0.292570038407145
+Amp Proxi NUD,Lat Proxi NUD,-0.2750890678284906
+Lat Proxi NMD,Amp Dist NMD,-0.27337490011551946
+Amp Dist NMD,Lat Proxi NMD,-0.27337490011551946
+Latencia pico NMD,Amplitud sensory NMD,-0.27262404496967996
+Amplitud sensory NMD,Latencia pico NMD,-0.27262404496967996
+Lat Distal NMD,Amp Dist NMD,-0.2682690914985499
+Lat Distal NUD,Amp Dist NUD,-0.2676082345546832
+Amp Dist NUD,Lat Distal NUD,-0.2676082345546832
+Latencia pico NUD,Amplitud sensory NUD,-0.18012648150686256
+Amp Proxi NMD,Lat Proxi NMD,-0.12818950479250765

@@ -1,0 +1,13 @@
+Categoria,Par,Correlacion
+Lat Distal NMI,Amplitud sensory NMI,-0.31983887608982875
+Amplitud sensory NMI,Lat Distal NMI,-0.31983887608982875
+Amp Proxi NMI,Lat Distal NMI,-0.2986000248469689
+Lat Proxi NUI,Amplitud sensory NUI,-0.2968578080518344
+Amplitud sensory NUI,Lat Proxi NUI,-0.2968578080518344
+Amp Dist NMI,Lat Distal NMI,-0.2753304472433621
+Lat Proxi NMI,Amplitud sensory NMI,-0.27051990299621625
+Latencia pico NMI,Amplitud sensory NUI,-0.17181330892097463
+Amp Dist NUI,Lat Proxi NUI,-0.1673009000165342
+Lat Distal NUI,Amplitud sensory NUI,-0.12841619609398203
+Amp Proxi NUI,Lat Proxi NMI,-0.12491390842849652
+Latencia pico NUI,Amplitud sensory NUI,-0.11035777098904564
